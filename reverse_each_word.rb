@@ -5,5 +5,3 @@ def reverse_each_word(phrase)
   end 
 end 
 
-phrase_a = reverse_each_word(phrase)
-phrase_a.join(" ")
