@@ -6,4 +6,4 @@ def reverse_each_word(phrase)
 end 
 
 phrase_a = reverse_each_word(phrase)
-phrase_a.join(' ')
+phrase_a.join(" ")
